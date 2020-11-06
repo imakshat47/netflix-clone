@@ -4,6 +4,8 @@
 
 .App {
     text-align: left;
+    background-color: #111111;
+    color: #ffffff;
 }
 
 .App-logo {
